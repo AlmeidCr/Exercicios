@@ -1,0 +1,9 @@
+strong{
+ color: white;
+}
+.boton{
+    background-color: blue;
+    border-radius: 10px;
+    transform: scale(0.96);
+    text-decoration: none;
+}
